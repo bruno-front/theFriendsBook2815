@@ -1,0 +1,14 @@
+.Header {
+    padding: 30px;
+    background-color: #180000;
+    color: #fff;
+}
+
+.logo {
+    font-size: 24px;
+    color: inherit;
+}
+
+.item {
+    color: #000;
+}

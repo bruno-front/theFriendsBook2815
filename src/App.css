@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App-header {
+
+}
+
+.App-content {
+  flex-grow: 1;
+  display: flex;
+}
+
+.App-sidebar {
+  flex-basis: 300px;
+  flex-shrink: 0;
+  box-shadow: 6px 0 5px -6px rgba(0, 0, 0, .5);
+}
+
+.App-view {
+  flex-grow: 1;
+  background-color: pink;
+}
